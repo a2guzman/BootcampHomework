@@ -4,7 +4,10 @@ __pycache__/
 *$py.class
 
 # C extensions
-*.so
+*.so 
+
+.DS_Store
+.DS_Store
 
 # Distribution / packaging
 .Python
